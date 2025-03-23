@@ -74,3 +74,5 @@ class Rag:
 # question = "Predicting and preventing heat"
 # print(test_RAG.generate_answer(question))
 
+
+# check checkout
